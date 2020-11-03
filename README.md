@@ -1,10 +1,6 @@
 # fredrikburmester-django
 > My own personal photography website build with Django.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 [fredrikburmester.com](https://fredrikburmester.com)
 
 ## Release History
