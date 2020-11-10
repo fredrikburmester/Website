@@ -1,8 +1,7 @@
 # fredrikburmester-django
 > My own personal photography website build with Django.
 
-[fredrikburmester.com](https://fredrikburmester.com)
-
+This website **was** hosted on [fredrikburmester.com](https://fredrikburmester.com). This URL now hosts my [Express/Pug version of this website.](https://github.com/fredrikburmester/fredrikburmester-express)
 ## Info
 
 This website was built with [Django](https://www.djangoproject.com/), which uses Python in the backend. This website is hosted on my own local server with Nginx as the webproxy, which is also serving all static files. 
